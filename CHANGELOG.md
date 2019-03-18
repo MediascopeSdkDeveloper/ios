@@ -1,3 +1,7 @@
+## 1.0.2 (2019.03.18)
+
+Fixed delta time calculation for playback continuity validation.  
+
 ## 1.0.1 (2019.01.29)
 
 Added extra viewability stat tracking.  
