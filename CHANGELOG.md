@@ -1,3 +1,7 @@
+## 1.0.3 (2019.10.03)
+
+Added creative's duration into viewability statistics.  
+
 ## 1.0.2 (2019.03.18)
 
 Fixed delta time calculation for playback continuity validation.  
